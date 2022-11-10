@@ -1,0 +1,13 @@
+@import '~sanitize.css/sanitize.css';
+.test-class {
+  margin: 0;
+}
+
+.navbar {
+  text-align: center;
+}
+.navbar__h1 {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
